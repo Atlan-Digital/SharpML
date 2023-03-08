@@ -9,7 +9,7 @@ SharpML is C# and Python based tool that performs a number of operations with a 
 
 The ML model is written in Python, and has been developed using a custom algorithm to identify likelyhoods of passwords. The model has been compiled with PyInstaller and sits as resource file in the C# wrapper, which interops between itself, the data and the model. The program logic can be seen below:
 
-![Program_logic](img/sharpml_logic.png)
+![Program_logic](img/sharpml.png)
 
 Currently it allows for a single file share to be assessed.
 
